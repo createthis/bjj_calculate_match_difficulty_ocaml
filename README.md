@@ -36,6 +36,7 @@ opam install yojson
 # Build
 ```bash
 ./build_bjj_calculate_match_difficulty.sh
+```
 
 # Run
 ```bash
