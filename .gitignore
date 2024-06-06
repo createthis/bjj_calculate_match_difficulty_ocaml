@@ -1,0 +1,10 @@
+# vim
+*.swp
+**/*.swp
+
+# OCaml byte code
+*.cmi
+*.cmo
+
+# OCaml binary
+bjj_calculate_match_difficulty
